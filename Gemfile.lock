@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    pixoo-pusher (0.1.0)
+    pixoo_pusher (0.1.0)
       faraday (~> 2.0)
       json
 
@@ -89,7 +89,7 @@ PLATFORMS
 
 DEPENDENCIES
   irb
-  pixoo-pusher!
+  pixoo_pusher!
   rake (~> 13.0)
   rspec (~> 3.0)
   rubocop (~> 1.21)
