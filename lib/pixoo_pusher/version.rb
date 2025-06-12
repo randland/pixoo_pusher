@@ -1,7 +1,5 @@
 # frozen_string_literal: true
 
-module Pixoo
-  module Pusher
-    VERSION = "0.1.0"
-  end
+module PixooPusher
+  VERSION = "0.1.0"
 end
